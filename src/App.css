@@ -116,6 +116,7 @@ nav {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   row-gap: 1.7em;
+  column-gap: 1em;
   margin-bottom: 2em;
 }
 
